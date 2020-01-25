@@ -6,7 +6,7 @@ In your home folder or your Documents folder, create a folder named `projects`.
 
 ## Write to a new file
 
-Launch VSCode and type the following *exactly* as you see it here.
+Launch VS Code and type the following *exactly* as you see it here.
 
 ```
 # 27 January 2020
@@ -23,7 +23,7 @@ I'm impressed with myself for **these reasons**:
 
 Save the file, naming it whatever you like, but making sure to add the `.md` extension to the end of the filename.
 
-How did that change the file contents' appearance in VSCode?
+How did that change the file contents' appearance in VS Code?
 
 ## Add an image to your file
 
@@ -35,7 +35,7 @@ How did that change the file contents' appearance in VSCode?
 - Download the "Full resolution" version of the image and move it to the `images` folder in your `projects` folder
 - In your markdown file, type `![](images/Pride_and_Prejudice_in_Voyant_Tools.png)`
 
-What have you just done? To find out, click the "Open Preview to the Side" button in VSCode. It looks like this: 
+What have you just done? To find out, click the "Open Preview to the Side" button in VS Code. It looks like this: 
 
 ![](../images/vscode_preview_button.png)
 
@@ -48,4 +48,6 @@ Scroll up to the top of this page and click on the button that says "Raw". Do th
 ## Question
 
 Why `../images/` and not `images/` ?
+
+[&lt;&lt; Previous](filenav.md) | [Home](../README.md)
 

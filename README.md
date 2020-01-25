@@ -4,3 +4,4 @@ Syllabus and other course materials for ENGL 340, Literature and Literary Study 
 
 Main site at <https://dh.sunygeneseoenglish.org/courses/english-340/>.
 
+[Get started &gt;&gt;](setup/filenav.md)
