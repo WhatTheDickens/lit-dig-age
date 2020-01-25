@@ -18,13 +18,13 @@ To show filename extensions in MacOS, go to Finder > Preferences > Advanced and 
 
 ![](../images/file_extensions_mac.png)
 
-To see display your files as a list, you have two options. You can select the View > as List from the Finder. But you may find that another option makes your file hierarchy even more transparent: View > as Columns. The "column" view shows the folders and files inside an enclosing folder in the next column to the right.
+To display your files as a list, you have two options. You can select the View > as List from the Finder. But you may find that another option makes your file hierarchy even more transparent: View > as Columns. The "column" view shows the folders and files inside an enclosing folder in the next column to the right.
 
 ![](../images/list_view_mac.png)
 
-On your Mac, you'll also find it helpful to make sure that the following, at least are visible in the Sidebar: Desktop, Documents, Downloads, —'s Computer, and your home folder (home icon).
+On your Mac, you'll also find it helpful to make sure that the following, at least, are visible in the Sidebar: Desktop, Documents, Downloads, —'s Computer, and your home folder (home icon).
 
 ![](../images/sidebar_mac.png)
 
-Next &gt; &gt;
+[&lt;&lt; Previous](../README.md) | [Next &gt;&gt;](markdown.md)
 
