@@ -118,7 +118,11 @@ Activity: Who’s here? And why?
 
 ### M 2/3
 
-- Before class: reading TBA
+- Before class:
+	- Read ["Senator Hawley Introduces Legislation to Amend Section 230 Immunity for Big Tech Companies"](https://www.hawley.senate.gov/senator-hawley-introduces-legislation-amend-section-230-immunity-big-tech-companies)
+	- Read ["Changing Section 230 Would Strengthen the Biggest Tech Companies"](https://nyti.ms/31rtMBG) (You have free access to the *New York Times* via Milne Library, but you can also find a pdf of the article in our shared Drive folder [here](https://drive.google.com/file/d/1kPgqPjkTOOOjarHzCY8PSUpGt99LLbbJ/view).)
+	- Read ["Thinking Strategically About Free Speech and Violence"](https://www.currentaffairs.org/2017/08/thinking-strategically-about-free-speech-and-violence)
+	- Listen to the RadioLab podcast episode ["Post No Evil"](https://www.wnycstudios.org/podcasts/radiolab/articles/post-no-evil).
 - In class: visit from Fred Lawrence, 2020 Geneseo Phi Beta Kappa speaker
 
 ### W 2/5
