@@ -109,7 +109,7 @@ Activity: Who’s here? And why?
 
 - Before class:
 	- Read *The Information*, Chapter 2
-	- Read through module on about [HTML and CSS](https://github.com/DHRI-Curriculum/html-css)
+	- Read through module on [HTML and CSS](https://github.com/DHRI-Curriculum/html-css)
 - In class: discussion; markdown editing, journaling, html, the web
 
 ## Weeks 3-5 | The web
@@ -123,7 +123,7 @@ Activity: Who’s here? And why?
 	- Read ["Changing Section 230 Would Strengthen the Biggest Tech Companies"](https://nyti.ms/31rtMBG) (You have free access to the *New York Times* via Milne Library, but you can also find a pdf of the article in our shared Drive folder [here](https://drive.google.com/file/d/1kPgqPjkTOOOjarHzCY8PSUpGt99LLbbJ/view).)
 	- Read ["Thinking Strategically About Free Speech and Violence"](https://www.currentaffairs.org/2017/08/thinking-strategically-about-free-speech-and-violence)
 	- Listen to the RadioLab podcast episode ["Post No Evil"](https://www.wnycstudios.org/podcasts/radiolab/articles/post-no-evil).
-- In class: visit from Fred Lawrence, 2020 Geneseo Phi Beta Kappa speaker
+- In class: visit from [Fred Lawrence](https://www.pbk.org/Secretary), 2020 Geneseo Phi Beta Kappa speaker
 
 ### W 2/5
 
@@ -144,7 +144,7 @@ Activity: Who’s here? And why?
 	- Read *The Information*, Chapter 5 
 	- Read [*Walden*](https://commons.digitalthoreau.org/walden/), "Economy" (paragraphs 1-70)
 	- Leave a comment on any passage in *Walden* that's relevant to our discussions so far about language/information/technology. Explain how the passage is relevant.
-	- Read: Read through this module on [Git and GitHub](https://github.com/DHRI-Curriculum/git)
+	- Read through this module on [Git and GitHub](https://github.com/DHRI-Curriculum/git)
 - In class: discussion; hands-on with command line and text-editing; pushing to Git
 - **Due: first blog post**
 
