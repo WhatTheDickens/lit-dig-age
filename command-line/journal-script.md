@@ -44,7 +44,7 @@ The second line, beginning with `touch`, tells your computer to create a file wh
 
 (As long as we're automating, why not add the precise time, down to the hour and minute? This way if we accidentally run the script twice in one day, our new file won't overwrite our old one.)
 
-The second line, beginning with `code`, tells your computer to open the file that the first line just created.
+The third line, beginning with `code`, tells your computer to open the file that the first line just created.
 
 Each of these lines is its own command. When the script runs, the commands will be executed in sequence: (1) Create the file (2) Open the file in 
 VS Code.
