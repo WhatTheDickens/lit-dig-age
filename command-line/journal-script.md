@@ -3,7 +3,7 @@
 Right now, every time you want to add to your markdown journal, you need to do the following:
 
 - Open VS Code
-- Open a new file and give it with the name `journal_yyyy-mm-dd.md` where `yyyy-mm-dd` represents that day's actual date
+- Open a new file and give it the name `journal_yyyy-mm-dd.md` where `yyyy-mm-dd` represents that day's actual date
 - Save it to `/Users/yourusername/Documents/journal` on your computer's hard drive, where `yourusername` is your actual username
 
 That's kind of a pain. What if we could automate this process by writing a couple of lines of executable code?
@@ -46,11 +46,14 @@ The second line, beginning with `touch`, tells your computer to create a file wh
 
 The second line, beginning with `code`, tells your computer to open the file that the first line just created.
 
+Each of these lines is its own command. When the script runs, the commands will be executed in sequence: (1) Create the file (2) Open the file in 
+VS Code.
+
 You may be wondering about the `~/` in the file path contained in each line of code. It's just a useful shorthand for `/Users/yourusername`. 
 
 ## Make your script executable
 
-If you're a Windows user, you should now be able to go to `/Users/yourusername/scripts` (aka `~/scripts`) and double-click `journal.sh` to make the code run. If it runs successfully, you'll see a new, empty file open up in VS Code with the correct file name.
+If you're a Windows user, you should now be able to go to `/Users/yourusername/scripts` (aka `~/scripts`) in your GUI and double-click `journal.sh` to make the code run. If it runs successfully, you'll see a new, empty file open up in VS Code with the correct file name.
 
 If you're a Mac user, you may have to take a couple of additional steps.
 
@@ -66,7 +69,7 @@ You may need to alter the file's permissions in order to run it. To do this, ope
 
 If you type `ls` at the command prompt (`$`), you should see your `journal.sh` file listed. If you don't, check that you're indeed inside `~/scripts` and that that's where `journal.sh` actually lives. If you accidentally saved the file somewhere else, now's the time to drag it where it belongs!
 
-Now copy-paste this at the prompt:
+Now copy-paste this at the prompt (`$`):
 
 ```
 chmod 700 journal.sh
@@ -74,5 +77,7 @@ chmod 700 journal.sh
 Hit `Enter` (aka, on some keyboards, `return`). You're done!
 
 Now go back to `journal.sh` in the GUI and double-click it. If everything's working right, you should end up with a new, empty file in VS Code with the current date and time in the file name.
+
+Type away in the file and save periodically as you would normally. Perhaps you should jot down a few notes in the file right now about what you just learned, and include a link to these instructions so you can find your way back to them easily.
 
 
