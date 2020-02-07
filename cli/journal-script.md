@@ -59,11 +59,19 @@ You may need to tell your Mac to treat your `.sh` file as executable code rather
 
 ### Mac user step two
 
-You may need to alter the file's permissions in order to run it. To do this, open a terminal window and navigate to `~/scripts/`.
+You may need to alter the file's permissions in order to run it. To do this, go back to your terminal window and make sure you're in your `~/scripts` directory. To see if you are, type 
 
-If you type `ls` at the command prompt (`$`), you should see your `journal.sh` file listed. If you don't, check that you're indeed inside `~/scripts` and that that's where `journal.sh` actually lives. If you accidentally saved the file somewhere else, now's the time to drag it where it belongs!
+`pwd`
 
-Now copy-paste this at the prompt (`$`):
+Hit `Enter`. If your terminal answers with `/Users/yourusername/scripts`, you're good to go. If it doesn't, then at the prompt type
+
+`cd ~/scripts`
+
+followed by `Enter`, and, try the `pwd` command again.
+
+If you now enter the `ls` command at the prompt (`$`), you should see your `journal.sh` file listed.
+
+Now type or copy-paste this at the prompt (`$`):
 
 ```
 chmod 700 journal.sh

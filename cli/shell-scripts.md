@@ -1,5 +1,7 @@
 [Next &gt;&gt;](journal-script.md)
 
+# Your first shell script
+
 The terminal window that you've been using to talk directly to your computer's operating system is sometimes called a *shell*.
 
 In this class, we're using a particular shell known as the *Bourne Again Shell*, or *Bash* for short.
@@ -45,11 +47,11 @@ The first line, `#!/bin/bash`, is like a hand-wave to your operating system, say
 
 The next line, `mkdir ~/hello` tells your computer to create a directory (i.e., folder) named `hello` in your home folder. (`~/` is just useful shorthand for `/Users/yourusername` where `yourusername` is your actual username.)
 
-The line after that says, "Switch to the folder `hello`.
+The line after that says, "Switch to the folder `hello`."
 
-The one after that says, "Print the text string 'Hello World!' and write it to a new file inside the current directory, naming that file `hello_world.txt`
+The one after that says, "Print the text string 'Hello World!' and write it to a new file inside the current directory, naming that file `hello_world.txt`"
 
-The final line says, "Open the file `hello_world.txt` in VS Code.
+The final line says, "Open the file `hello_world.txt` in VS Code."
 
 Each of these lines is its own command. When the script runs, the commands will be executed in sequence: (1) Make a new directory (2) Move into the new directory, (3) Print a string of text and write it to a new file, (4) Open the new file in VS Code.
 
