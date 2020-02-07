@@ -41,6 +41,8 @@ code hello_world.txt
 
 Save the file.
 
+![Saving file](../images/save_hello.png)
+
 ## Deep breath
 
 Let's take a second to understand what we're doing here.
