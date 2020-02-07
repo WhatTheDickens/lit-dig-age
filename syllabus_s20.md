@@ -97,9 +97,9 @@ Activity: Who’s here? And why?
 ### M 1/27
 
 - Before class:
-	- Follow these instructions to [install VS Code](https://github.com/DHRI-Curriculum/install/blob/master/sections/vscode.md)
+	- Follow these instructions to [install VS Code](https://github.com/WhatTheDickens/install/blob/master/sections/vscode.md)
 	- Read *The Information*, Prologue through Chapter 1
-	- Read about [Plain text editors](https://github.com/DHRI-Curriculum/command-line/blob/master/sections/text-editors.md)
+	- Read about [Plain text editors](https://github.com/WhatTheDickens/command-line/blob/master/sections/text-editors.md)
 	- Read John Gruber on [Markdown](https://daringfireball.net/projects/markdown/) (Main - Basics - Syntax)
 	- Read the [GitHub Guide](https://guides.github.com/features/mastering-markdown/) to markdown
 	- Explore blog posts on [Digital Humanities at Geneseo](https://dh.sunygeneseoenglish.org)
@@ -109,7 +109,7 @@ Activity: Who’s here? And why?
 
 - Before class:
 	- Read *The Information*, Chapter 2
-	- Read through module on [HTML and CSS](https://github.com/DHRI-Curriculum/html-css)
+	- Read through module on [HTML and CSS](https://github.com/WhatTheDickens/html-css)
 - In class: discussion; markdown editing, journaling, html, the web
 
 ## Weeks 3-5 | The web
@@ -134,8 +134,8 @@ Activity: Who’s here? And why?
 
 - Before class: 
 	- Read *The Information*, Chapter 4
-	- Read through this module on using your computer's [command line](https://github.com/DHRI-Curriculum/command-line)
-	- Follow these instructions to [install Git](https://github.com/DHRI-Curriculum/install/blob/master/sections/git.md); wait to test till in class
+	- Read through this module on using your computer's [command line](https://github.com/WhatTheDickens/command-line)
+	- Follow these instructions to [install Git](https://github.com/WhatTheDickens/install/blob/master/sections/git.md); wait to test till in class
 - In-class: discussion; hands-on with command line and text-editing
 
 ### W 2/12
@@ -144,7 +144,7 @@ Activity: Who’s here? And why?
 	- Read *The Information*, Chapter 5 
 	- Read [*Walden*](https://commons.digitalthoreau.org/walden/), "Economy" (paragraphs 1-70)
 	- Leave a comment on any passage in *Walden* that's relevant to our discussions so far about language/information/technology. Explain how the passage is relevant.
-	- Read through this module on [Git and GitHub](https://github.com/DHRI-Curriculum/git)
+	- Read through this module on [Git and GitHub](https://github.com/WhatTheDickens/git/tree/engl340)
 - In class: discussion; hands-on with command line and text-editing; pushing to Git
 - **Due: first blog post**
 
@@ -193,8 +193,8 @@ Activity: Who’s here? And why?
 	- Read *The Information*, Chapter 10 
 	- Read [*Walden*](https://commons.digitalthoreau.org/walden/), "Solitude"
 	- Leave a comment on a passage in "Solitude" connecting Thoreau's ideas to your own experience with being alone or with others. Consider the role that technology plays for both Thoreau and you in shaping the experience of being alone or with others.
-	- Read this module on [text analysis using NLTK](https://github.com/DHRI-Curriculum/text-analysis)
-	- Follow these instructions to [install Anaconda](https://github.com/DHRI-Curriculum/text-analysis/blob/master/sections/overview.md)
+	- Read this module on [text analysis using NLTK](https://github.com/WhatTheDickens/text-analysis)
+	- Follow these instructions to [install Anaconda](https://github.com/WhatTheDickens/text-analysis/blob/master/sections/overview.md)
 - In-class: discussion, python and nltk
 
 ### W 3/4
