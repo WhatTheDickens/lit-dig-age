@@ -22,6 +22,8 @@ Hit `Enter` (or `return`). This should land you back at the prompt. Now type
 
 Again, hit `Enter/return`. This should open up VS Code if it isn't already open, and show your new folder in the "Explorer" in the left navigation pane of your window.
 
+![Folder open in VS Code](../images/code_open_folder.png)
+
 Use `File > New File` from the VS Code menu or the `New File` icon that appears when you mouse over the folder name to create a new file inside your `scripts` folder. Name the file `hello.sh`.
 
 You'll recall that the `.md` extension tells VS Code to interpret your plain text file as markdown, and that the `.html` extension tells it to interpret your plain text as html markup intended for display in a browser. The `.sh` extension lets VS Code (and your computer's operating system) know that you're writing a shell script.
