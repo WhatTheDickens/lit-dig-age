@@ -24,7 +24,7 @@ Again, hit `Enter/return`. This should open up VS Code if it isn't already open,
 
 ![Folder open in VS Code](../images/open_folder_code.png)
 
-If `code scripts` failed to open VS Code for you, you probably omitted to add `code` to add `code` to `PATH` as instructed during your installation of VS Code. No problem. Revisit the instructions [here](https://github.com/WhatTheDickens/install/blob/master/sections/vscode.md#osx) and make the changes now.
+If `code scripts` failed to open VS Code for you, you probably omitted to add `code` to `PATH` as instructed during your installation of VS Code. No problem. Revisit the instructions [here](https://github.com/WhatTheDickens/install/blob/master/sections/vscode.md#osx) and make the changes now.
 
 Use `File > New File` from the VS Code menu or the `New File` icon that appears when you mouse over the folder name to create a new file inside your `scripts` folder. Name the file `hello.sh`.
 
