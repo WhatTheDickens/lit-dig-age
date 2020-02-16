@@ -24,6 +24,8 @@ Again, hit `Enter/return`. This should open up VS Code if it isn't already open,
 
 ![Folder open in VS Code](../images/open_folder_code.png)
 
+(If `code scripts` failed to open VS Code for you, you probably omitted to add `code` to add `code` to `PATH` as instructed during your installation of VS Code. No problem. Revisit the instructions [here](https://github.com/WhatTheDickens/install/blob/master/sections/vscode.md#osx) and make the changes now.)
+
 Use `File > New File` from the VS Code menu or the `New File` icon that appears when you mouse over the folder name to create a new file inside your `scripts` folder. Name the file `hello.sh`.
 
 You'll recall that the `.md` extension tells VS Code to interpret your plain text file as markdown, and that the `.html` extension tells it to interpret your plain text as html markup intended for display in a browser. The `.sh` extension lets VS Code (and your computer's operating system) know that you're writing a shell script.
@@ -89,11 +91,9 @@ Hit `Enter/return`. What do you see?
 
 If you're a Windows user, you should now be able to go to `/Users/yourusername/scripts` (aka `~/scripts`) in your GUI and double-click the `hello.sh` icon to make the script run.
 
-If you're a Mac user, your computer will likely just open `hello.sh` for you to edit rather than running the script. If it does, you can change that behavior by doing the following. (The procedure is similar in Windows if you need to make the equivalent change there.)
+If you're a Mac user, your computer will likely just open `hello.sh` for you to edit rather than running the script. If it does, you'll need to tell your Mac to treat your `.sh` file as executable code rather than a file you want to open and read. To do that, click once on `hello.sh`, go to File > Get Info (or simply type `command-I`), and use the dropdown near the bottom of the Info box to select `Terminal.app` as the application that should be used to open the file. 
 
-### Mac user step one
-
-You may need to tell your Mac to treat your `.sh` file as executable code rather than a file you want to open and read. To do that, click once on `hello.sh`, go to File > Get Info (or simply type `command-I`), and use the dropdown near the bottom of the Info box to select `Terminal.app` as the application that should be used to open the file.
+The procedure is similar in Windows if you need to make the equivalent change there.
 
 ![Get Info](../images/get_info.png)
 
