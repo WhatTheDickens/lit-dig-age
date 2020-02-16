@@ -37,7 +37,7 @@ Type the following into `hello.sh` *exactly* as you see it here, then save the f
 
 mkdir ~/hello
 cd ~/hello
-echo "Hello World!" > hello_world.txt
+echo Hello World! > hello_world.txt
 code hello_world.txt
 ```
 
