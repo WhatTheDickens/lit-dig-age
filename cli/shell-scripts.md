@@ -34,7 +34,7 @@ Type the following into `hello.sh` *exactly* as you see it here, then save the f
 #!/bin/bash
 
 mkdir ~/hello
-cd hello
+cd ~/hello
 echo "Hello World!" > hello_world.txt
 code hello_world.txt
 ```
@@ -51,49 +51,50 @@ The first line, `#!/bin/bash`, is like a hand-wave to your operating system, say
 
 The next line, `mkdir ~/hello` tells your computer to create a directory (i.e., folder) named `hello` in your home folder. (`~/` is just useful shorthand for `/Users/yourusername` where `yourusername` is your actual username.)
 
-The line after that says, "Switch to the folder `hello`."
+The line after that says, "Switch to the folder `~/hello`."
 
 The one after that says, "Print the text string 'Hello World!' and write it to a new file inside the current directory, naming that file `hello_world.txt`"
 
-The final line says, "Open the file `hello_world.txt` in VS Code."
+The final line says, "Open the file `~/hello/hello_world.txt` in VS Code."
 
 Each of these lines is its own command. When the script runs, the commands will be executed in sequence: (1) Make a new directory (2) Move into the new directory, (3) Print a string of text and write it to a new file, (4) Open the new file in VS Code.
 
-We're almost ready to run this script. Just a few more steps.
+We're almost ready to run this script. Just one more step.
 
-## Make your script executable
+## Make sure your script file is executable
 
-If you're a Windows user, you should now be able to go to `/Users/yourusername/scripts` (aka `~/scripts`) in your GUI and double-click `hello.sh` to make the code run. If it runs successfully, you'll see your new file, `hello_world.txt` open up in VS Code. The contents of the file should read `Hello World!`
+In order to run, the file containing must be executable. Let's see if we need to do that. Open a terminal window and `cd ` to your `scripts` folder by typing `cd scripts` at the prompt (`$`) and hitting `Enter/return`. (If you get a message that there's no such file or directory, try `cd ~/scripts`. If that doesn't work, double-check to make sure your scripts folder is in your home directory and not, for example, inside `Documents` or `Desktop`. If necessary, use the GUI to move `scripts` into your home folder.)
 
-If you're a Mac user, you may have to take a couple of additional steps.
+Type `ls -l` at the prompt and hit `Enter/return`. You should get a response that looks something like this:
+
+`-rwxr--r--@ 1 yourusername  staff   167 Feb  8 12:00 hello.sh`
+
+What you're looking for is that `x` near the beginning of the string, after the `rw`. The full string tells you who has permission to do what with the file. The string above is telling us that the computer's adminisrator (i.e., you) can *read, write, and execute* the file (`rwx`), a group named "staff" can *read* but not *write* or *execute* it (`r--`), and a third group (everyone else) has the same permissions as "staff" (`r--`).
+
+If the first combination of letters you see is `rwx`, you're good to go. If not, we need to change the file's permissions. You can do that by typing the following at the prompt
+
+`chmod 744 hello.sh`
+
+Hit `Enter/return`. Type `ls -l` and hit `Enter/return` again to confirm that you've given yourself permission to execute the script. 
+
+## Let's do this
+
+Use the `pwd` command to confirm that you're in your `scripts` directory. Now type the following at the prompt:
+
+`./hello.sh`
+
+Hit `Enter/return`. What do you see?
+
+## Running your script from the GUI
+
+If you're a Windows user, you should now be able to go to `/Users/yourusername/scripts` (aka `~/scripts`) in your GUI and double-click the `hello.sh` icon to make the script run.
+
+If you're a Mac user, your computer will likely just open `hello.sh` for you to edit rather than running the script. If it does, you can change that behavior by doing the following. (The procedure is similar in Windows if you need to make the equivalent change there.)
 
 ### Mac user step one
 
 You may need to tell your Mac to treat your `.sh` file as executable code rather than a file you want to open and read. To do that, click once on `hello.sh`, go to File > Get Info (or simply type `command-I`), and use the dropdown near the bottom of the Info box to select `Terminal.app` as the application that should be used to open the file.
 
 ![Get Info](../images/get_info.png)
-
-### Mac user step two
-
-You may need to alter the file's permissions in order to run it. To do this, go back to your terminal window and make sure you're in your `~/scripts` directory. To see if you are, type 
-
-`pwd`
-
-Hit `Enter`. If your terminal answers with `/Users/yourusername/scripts`, you're good to go. If it doesn't, then at the prompt type
-
-`cd ~/scripts`
-
-followed by `Enter`, and, try the `pwd` command again.
-
-If you now enter the `ls` command at the prompt (`$`), you should see your `hello.sh` file listed.
-
-Now type or copy-paste this at the prompt (`$`):
-
-```
-chmod 700 hello.sh
-```
-Hit `Enter` (`return`). You're done!
-
-Now go back to `hello.sh` in the GUI and double-click it. If everything's working right, you'll see your new file, `hello_world.txt` open up in VS Code.
 
 [Next &gt;&gt;](journal-script.md)

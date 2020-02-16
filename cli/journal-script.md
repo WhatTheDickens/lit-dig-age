@@ -45,43 +45,20 @@ Each of these lines is its own command. When the script runs, the commands will 
 
 Wondering about the `~/` in the file path contained in each line of code? Remember, it's just shorthand for `/Users/yourusername`. 
 
-## Make your script executable
+## Make sure your script file is executable
 
-If you're a Windows user, you should now be able to go to `/Users/yourusername/scripts` (aka `~/scripts`) in your GUI and double-click `journal.sh` to make the code run. If it runs successfully, you'll see a new, empty file open up in VS Code with the correct file name.
+Follow the [instructions for the `hello.sh` script](shell-scripts.md) to ensure that `journal.sh` is executable.
 
-If you're a Mac user, you may have to go through the same extra steps covered in the [previous](shell-scripts.md) lesson. They're repeated below so you don't have to leave this page.
+## Let's do this
 
-### Mac user step one
+Use the `pwd` command to confirm that you're in your `scripts` directory. Now type the following at the prompt:
 
-You may need to tell your Mac to treat your `.sh` file as executable code rather than a file you want to open and read. To do that, click once on `journal.sh`, go to File > Get Info (or simply type `command-I`), and use the dropdown near the bottom of the Info box to select `Terminal.app` as the application that should be used to open the file.
+`./journal.sh`
 
-![Get Info](../images/get_info.png)
+Hit `Enter/return`. What do you see?
 
-### Mac user step two
+## Running your script from the GUI
 
-You may need to alter the file's permissions in order to run it. To do this, go back to your terminal window and make sure you're in your `~/scripts` directory. To see if you are, type 
-
-`pwd`
-
-Hit `Enter`. If your terminal answers with `/Users/yourusername/scripts`, you're good to go. If it doesn't, then at the prompt type
-
-`cd ~/scripts`
-
-followed by `Enter`, and, try the `pwd` command again.
-
-If you now enter the `ls` command at the prompt (`$`), you should see your `journal.sh` file listed.
-
-Now type or copy-paste this at the prompt (`$`):
-
-```
-chmod 700 journal.sh
-```
-Hit `Enter` (aka, on some keyboards, `return`). You're done!
-
-Now go back to `journal.sh` in the GUI and double-click it. If everything's working right, you should end up with a new, empty file in VS Code with the current date and time in the file name.
-
-Type away in the file and save periodically as you would normally. Perhaps you should jot down a few notes in the file right now about what you just learned, and include a link to these instructions so you can find your way back to them easily.
-
-[&lt;&lt; Previous](shell-scripts.md)
+Follow the [instructions for the `hello.sh` script](shell-scripts.md) to run `journal.sh` by double-clicking it in the GUI.
 
 
