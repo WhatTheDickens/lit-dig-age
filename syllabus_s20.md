@@ -176,8 +176,7 @@ Activity: Who’s here? And why?
 	- Read N. Katherine Hayles, "How We Read" (in Slack > #assignments)
 	- Read [*Walden*](https://commons.digitalthoreau.org/walden/), "Reading"
 	- Leave a comment on a passage or passages in "Reading." Use the passage(s) to compare Thoreau's ideas about reading to those in Hayles and to the way(s) you yourself read.
-	- Upload *Walden* to [Voyant Tools](https:voyant-tools.org)
-- In class: discussion; basics of text analysis
+- In class: discussion; basics of text analysis; [Voyant Tools](https//:voyant-tools.org)
 
 ### W 2/26
 
