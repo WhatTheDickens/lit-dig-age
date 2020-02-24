@@ -210,7 +210,7 @@ Activity: Who’s here? And why?
 	- Read *The Information*, Chapter 12
 	- Read [*Walden*](https://commons.digitalthoreau.org/walden/),"The Bean-Field"
 	- Leave a comment on anything in "The Bean-Field" that makes you feel joy, wonder, confusion, or anger. Explain your reaction.
--In class: discussion, python and nltk
+- In class: discussion, python and nltk
 
 ### W 3/11
 
