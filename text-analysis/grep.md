@@ -8,8 +8,6 @@ To begin, make sure you're in the folder that has your `walden.txt` file and you
 
 `$  grep -Eo '\b\w+\b' walden.txt | wc -l`
 
-## Count the number of unique words in *Walden*
-
 ## Many words in *Walden* are used more than once. How many unique words are there?
 
 `$ grep -Eo '\b\w+\b' walden.txt | sort -uf | wc -l`
