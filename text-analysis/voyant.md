@@ -22,7 +22,7 @@ $ curl https://www.gutenberg.org/files/205/205-0.txt > walden.txt
 This file contains both _Walden_ and _On the Duty of Civil Disobedience_. It also contains gutenberg.org's standard licensing information at the end. We want only the text of _Walden_, so we need to
 
 1. Delete everything above the title of the first chapter, "Economy" (including the all-caps title "WALDEN"). To do this, put your cursor to the left of the "E" in "Economy" and press `cmd-shift-uparrow` (Mac) or `ctrl-shift-home` (Windows), then hit `delete`.
-2. Delete everything after the end of _Walden_. To do this, search for the words "THE END," which conclude _Walden_. Put your cursor in front of "THE" so you'll delete "THE END" and everything below it. Press `cmd-shift-downarrow` (Mac) or `ctrl-shift-end` (Windows)to make your selection, then hit `delete`.
+2. Delete everything after the end of _Walden_. To do this, search for the words "THE END," which conclude _Walden_. Put your cursor in front of "THE" so you'll delete "THE END" and everything below it. Press `cmd-shift-downarrow` (Mac) or `ctrl-shift-end` (Windows) to make your selection, then hit `delete`.
 3. Save the file.
 
 ## Upload _Walden_ to Voyant
