@@ -14,7 +14,7 @@ To begin, make sure you're in the folder that has your `walden.txt` file and you
 
 ## Let's print these words to a file
 
-`$ grep -Eo '\b\w+\b' walden.txt | sort -uf | wc -l > walden_words.txt`
+`$ grep -Eo '\b\w+\b' walden.txt | sort -uf > walden_words.txt`
 
 ## Find all occurrences of "pond" and highlight them in red.
 
