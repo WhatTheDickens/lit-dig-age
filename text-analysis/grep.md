@@ -16,17 +16,27 @@ To begin, make sure you're in the folder that has your `walden.txt` file and you
 
 `$ grep -Eo '\b\w+\b' walden.txt | sort -uf > walden_words.txt`
 
-## Find all occurrences of "pond" and highlight them in red.
+## Find all occurrences of "read" and highlight them in red.
 
-`$ grep -E --color=always 'pond' walden.txt`
+`$ grep -E --color=always 'read' walden.txt`
+
+Too much information!
+
+## Let's narrow to "read" as a word.
+
+`$ grep -E --color=always '\bread\b' walden.txt`
+
+## But what about "reader(s)" and "reading"? And what about, say, "Reading"?
+
+`$ grep -E --color=always '\b(R|r)ead\b|\b(R|r)eaders?\b|\b(R|r)eading\b' walden.txt`
 
 ## Do the same showing line numbers, so we can find some particular occurrence.
 
-`$ grep -En --color=always 'pond' walden.txt`
+`$ grep -En --color=always '\b(R|r)ead\b|\b(R|r)eaders?\b|\b(R|r)eading\b' walden.txt`
 
-## Count occurrences of "Pond" and "pond".
+## Let's do some counting occurrences.
 
-`$ grep -Eo '(P|p)ond' walden.txt | wc -l`
+`$ grep -Eo '\b(R|r)ead\b|\b(R|r)eaders?\b|\b(R|r)eading\b' walden.txt | wc -l`
 
 ## Print the 12-letter words in *Walden*.
 
@@ -62,9 +72,13 @@ To begin, make sure you're in the folder that has your `walden.txt` file and you
 
 Make sure you're in the directory that *contains* the directory `Walden_in_Chapters`.
 
-### Occurrences of "pond"
+### Occurrences of "read".
 
-`$ grep -Ern --color=always 'pond' Walden_in_Chapters`
+`$ grep -Ern --color=always 'read' Walden_in_Chapters`
+
+### Occurrences of "read" and related words.
+
+$ `grep -Ern --color=always '\b(R|r)ead\b|\b(R|r)eaders?\b|\b(R|r)eading\b' Walden_in_Chapters`
 
 ### Occurrences of "I"
 
