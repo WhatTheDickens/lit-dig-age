@@ -34,7 +34,7 @@ Too much information!
 
 `$ grep -En --color=always '\b(R|r)ead\b|\b(R|r)eaders?\b|\b(R|r)eading\b' walden.txt`
 
-## Let's do some counting occurrences.
+## Let's do some counting.
 
 `$ grep -Eo '\b(R|r)ead\b|\b(R|r)eaders?\b|\b(R|r)eading\b' walden.txt | wc -l`
 
