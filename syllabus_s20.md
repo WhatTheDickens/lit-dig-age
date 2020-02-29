@@ -193,7 +193,7 @@ Activity: Who’s here? And why?
 	- Read [*Walden*](https://commons.digitalthoreau.org/walden/), "Solitude"
 	- Leave a comment on a passage in "Solitude" connecting Thoreau's ideas to your own experience with being alone or with others. Consider the role that technology plays for both Thoreau and you in shaping the experience of being alone or with others.
 	- Read this module on [text analysis using NLTK](https://github.com/WhatTheDickens/text-analysis)
-	- Follow these instructions to [install Anaconda](https://github.com/WhatTheDickens/text-analysis/blob/master/sections/overview.md)
+	- Install [Anaconda](https://www.anaconda.com/distribution/)
 - In-class: discussion, python and nltk
 
 ### W 3/4
