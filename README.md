@@ -8,7 +8,7 @@ Read the [Spring 2020 syllabus](syllabus_s20.md).
 
 [Get started &gt;&gt;](setup/filenav.md)
 
-(Hi, it's Amanda!)
+(Hi, it's Amanda! I'm doing a little test.)
 
 -----
 
