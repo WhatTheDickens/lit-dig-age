@@ -6,7 +6,7 @@ It would be a mistake, Bryant argues, to suppose that any one moment in a work's
 
 Rather than think of a literary work as a fixed and stable object, then, we might better understand it is an ongoing project. Bryant invites us to think here of the two different ways that we use *work* in ordinary conversation. We can talk about *a work*, meaning the final product of some type of labor. But we can also talk about *the work* that goes into making this product.
 
-Our whole view of literature shifts when we focus less on *works* on more on *work*: on the energy that flows through texts, bringing them to life and giving them an afterlife in the many derivative works that flow from them.
+Our whole view of literature shifts when we focus less on *works* on more on *work*: on the energy that flows through texts, bringing them to life and giving them an afterlife in the many derivative texts that flow from them.
 
 # *Walden* as a fluid text
 
