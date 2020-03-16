@@ -6,7 +6,7 @@ It would be a mistake, Bryant argues, to suppose that any one moment in a work's
 
 Rather than think of a literary work as a fixed and stable object, then, we might better understand it is an ongoing project. Bryant invites us to think here of the two different ways that we use *work* in ordinary conversation. We can talk about *a work*, meaning the final product of some type of labor. But we can also talk about *the work* that goes into making this product.
 
-Our whole view of literature shifts when we focus less on works on more on work: on the energy that flows through texts, bringing them to life and giving them an afterlife in the many derivative works that flow from them.
+Our whole view of literature shifts when we focus less on *works* on more on *work*: on the energy that flows through texts, bringing them to life and giving them an afterlife in the many derivative works that flow from them.
 
 # *Walden* as a fluid text
 
@@ -16,7 +16,7 @@ Thoreau began writing *Walden* while living at the pond (1845-1847), incorporati
 
 The Huntington Library in San Marino, California holds the manuscript of *Walden*, which amounts to 1200 handwritten pages. With support from a State University of New York grant awarded to the [Digital Thoreau](https://digitalthoreau.org) initiative at SUNY Geneseo, the library has digitized the manuscript, which you'll find [here](https://cdm16003.contentdm.oclc.org/digital/collection/p16003coll16).
 
-How should Thoreau's revisions to *Walden* affect our understanding of the book? This is a question that scholars have been asking since J. Lyndon Shanley first determined that the sprawling manuscript represents seven distinct stages of revision. He offered his own answers in his 1957 book *The Making of* Walden. Other assessments have followed: *Revising Mythologies: The Composition of Thoreau’s Major Works* (1988), Stephen Adams and Donald J. Ross, Jr., is particularly useful, as is Robert Sattelmeyer's concise analysis in "The Re-making of *Walden*" (1990).
+How should Thoreau's revisions to *Walden* affect our understanding of the book? This is a question that scholars have been asking since J. Lyndon Shanley first determined that the sprawling manuscript represents seven distinct stages of revision. He offered his own answers in his 1957 book *The Making of* Walden. Other assessments have followed: *Revising Mythologies: The Composition of Thoreau’s Major Works* (1988), by Stephen Adams and Donald J. Ross, Jr., is particularly useful, as is Robert Sattelmeyer's concise analysis in "The Re-making of *Walden*" (1990).
 
 # Creating a fluid-text edition of *Walden*
 
@@ -26,7 +26,7 @@ In 1967, Ronald Clapper, then a graduate student at UCLA, produced such a tool a
 
 Based on Clapper's dissertation, [Digital Thoreau](https://digitalthoreau.org) produced a "fluid-text edition" of *Walden* by encoding the manuscript witnesses in [XML/TEI](https://tei-c.org).
 
-An open-source application called the Versioning Machine transforms the TEI-encoded text into HTML for the web, enabling a reader to compare the points of variation between manuscript versions side by side.
+An open-source application called [The Versioning Machine](http://v-machine.org) transforms the TEI-encoded text into HTML for the web, enabling a reader to compare the points of variation between manuscript versions side by side.
 
 # Questions/assignments
 
