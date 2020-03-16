@@ -1,4 +1,8 @@
-# What is a fluid text?
+# Fluid texts and fluid-text editing
+
+This section will introduce you to the concept of a "fluid text," using *Walden* and *Walden: A Fluid-Text Edition* as examples. 
+
+## What is a fluid text?
 
 In *The Fluid Text: A Theory of Revision and Editing for Book and Screen* (1988), the Melville scholar John Bryant explores the implications of regarding all literary texts as inherently fluid. A work of literature doesn't spring fully formed from its author's mind but is rather the product of multiple revisions. Some of these  revisions reflect changes in the author's overall conception of the work — their evolving sense of the work's general purpose and organization. Others reflect the author's efforts to fine-tune particular words and phrases. Some revisions originate from sources other than the author: for example, an editor or publisher. Once a work is published, it may undergo further revision in subsequent editions — again, sometimes reflecting authorial decisions and sometimes editorial ones. Finally, works that capture the reading public's imagination typically find themselves re-made in multiple ways across multiple media. Think, for example, of the many derivative works that have developed out of Charles Dickens's *A Christmas Carol*, Lewis Carroll's *Alice* books, or Jane Austen's novels — not to mention the plays of Shakespeare.
 
@@ -8,7 +12,7 @@ Rather than think of a literary work as a fixed and stable object, then, we migh
 
 Our whole view of literature shifts when we focus less on *works* on more on *work*: on the energy that flows through texts, bringing them to life and giving them an afterlife in the many derivative texts that flow from them.
 
-# *Walden* as a fluid text
+## *Walden* as a fluid text
 
 Although Bryant encourages us to think of all texts as fluid, he concedes that some texts "reveal their fluidities more or less fully than others." A text's pre-publication fluidity is most evident when there is a manuscript or typescript that bears witness to authorial changes, as is the case with Henry David Thoreau's *Walden*.
 
@@ -18,7 +22,7 @@ The Huntington Library in San Marino, California holds the manuscript of *Walden
 
 How should Thoreau's revisions to *Walden* affect our understanding of the book? This is a question that scholars have been asking since J. Lyndon Shanley first determined that the sprawling manuscript represents seven distinct stages of revision. He offered his own answers in his 1957 book *The Making of* Walden. Other assessments have followed: *Revising Mythologies: The Composition of Thoreau’s Major Works* (1988), by Stephen Adams and Donald J. Ross, Jr., is particularly useful, as is Robert Sattelmeyer's concise analysis in "The Re-making of *Walden*" (1990).
 
-# Creating a fluid-text edition of *Walden*
+## Creating a fluid-text edition of *Walden*
 
 To find our own answers to this question, we need tools to help us navigate *Walden*'s fluidity.
 
@@ -28,7 +32,7 @@ Based on Clapper's dissertation, [Digital Thoreau](https://digitalthoreau.org) p
 
 An open-source application called [The Versioning Machine](http://v-machine.org) transforms the TEI-encoded text into HTML for the web, enabling a reader to compare the points of variation between manuscript versions side by side.
 
-# Questions/assignments
+## Questions/assignments
 
 - Questions here.
 - Assignment: find a passage that you'd like to explore. Go to it in fluid-text edition. What do you see?
