@@ -32,10 +32,15 @@ Based on Clapper's dissertation, [Digital Thoreau](https://digitalthoreau.org) p
 
 An open-source application called [The Versioning Machine](http://v-machine.org) transforms the TEI-encoded text into HTML for the web, enabling a reader to compare the points of variation between manuscript versions side by side.
 
-## Questions/assignments
+## Discussion questions
 
-- Questions here.
-- Assignment: find a passage that you'd like to explore. Go to it in fluid-text edition. What do you see?
+- If you had to illustrate the concept of "fluid text" to someone using an example other than *Walden*, what text would you use? Choose a text you've read in another course or on your own and explain (1) what makes it fluid and (2) how recognizing its fluidity might affect how we should understand it.
+- The [The Versioning Machine](http://v-machine.org) website has some examples of TEI-encoded fluid texts. Look in particular at the versions of Emily Dickinson's "Faith is a fine invention" in both XML and HTML. What questions about the meaning of Dickinson's poem are raised for you by reading these different versions side by side?
+- A very famous fluid text is Abraham Lincoln's Gettysburg Address. In 2015, students in ENGL 340 created [their own fluid-text edition of Lincoln's Address](https://www.geneseo.edu/~schacht/fluid_gettysburg/). How does comparing the different versions of the address affect your understanding of Lincoln's message? 
+
+## Assignment
+
+Identify a passage (from a few sentences to a paragraph or so) in *Walden* that you find particulaly interesting — either for *what* it says or *how* Thoreau says it. Find the passage in the [*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/fluid-text-toc/). What changes did Thoreau make to the passage? (If he didn't make any, either find another passage or explore the fluid-text edition till you find some changes there that interest you.) Leave a comment on the passage in the [Readers' Thoreau *Walden*](https://commons.digitalthoreau.org/walden) describing what you find interesting about the changes.
 
 ----
 Portions of this page have been adapted from [*Walden*: A Fluid-Text Edition](http://digitalthoreau.org/fluid-text-toc/)
