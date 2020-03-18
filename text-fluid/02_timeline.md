@@ -39,11 +39,11 @@ Clicking the image in that search results page takes me here:
 
 This looks better – the URL ends with `.jpg` — but careful! This URL still isn't pointing to the image file itself but to a Wikipedia page *about* the file. I can verify this by trying to pull the image into a markdown file, like so: 
 
-`![cat](https://en.wikipedia.org/wiki/File:June_odd-eyed-cat.jpg)`
+`![Image of a cat](https://en.wikipedia.org/wiki/File:June_odd-eyed-cat.jpg)`
 
-If I click the "Preview" button in VS Code, I don't see an image, just an icon indicating a broken link.
+If I click the "Preview" button in VS Code, I don't see an image, just my alt-text: "Image of a cat".
 
-![cat](https://en.wikipedia.org/wiki/File:June_odd-eyed-cat.jpg)
+![Image of a cat](https://en.wikipedia.org/wiki/File:June_odd-eyed-cat.jpg)
 
 However, if I look beneath the image on the Wikipedia page, I see a link to the "Original file." Clicking that takes me here:
 
@@ -51,11 +51,11 @@ However, if I look beneath the image on the Wikipedia page, I see a link to the 
 
 Perfect! This will work. Again, I can test with 
 
-`![cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/June_odd-eyed-cat.jpg)`
+`![Image of a cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/June_odd-eyed-cat.jpg)`
 
 Voilà!
 
-![cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/June_odd-eyed-cat.jpg)
+![Image of a cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/June_odd-eyed-cat.jpg)
 
 ## Assignment
 
@@ -70,5 +70,5 @@ Create a brief practice timeline based on some aspect of the history of computin
 
 You'll find it helpful to explore the gallery of timelines on the TimelineJS website — particularly the one on *Women in Computing*.
 
-You'll also benefit from looking through the [Help FAQ](http://timeline.knightlab.com/#help)
+You'll also benefit from looking through the [Help FAQ](http://timeline.knightlab.com/#help).
 
