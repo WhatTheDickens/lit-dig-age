@@ -62,7 +62,8 @@ Voilà!
 Create a brief practice timeline based on some aspect of the history of computing drawn from Gleick's *The Information*. Your timeline should have these features:
 
 - A cover image and title
-- For each point on the timeline,
+- Four timeline events or periods (more if you like, but four is fine)
+- For each event or period on the timeline,
     - A date or date range
     - An image
     - Text to go with the image
