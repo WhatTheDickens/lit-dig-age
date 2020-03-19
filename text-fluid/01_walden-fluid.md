@@ -1,6 +1,12 @@
-# Fluid texts and fluid-text editing
+# Metareading and the fluid text
 
-This section will introduce you to the concept of a "fluid text," using *Walden* and *Walden: A Fluid-Text Edition* as examples. 
+The previous page introduced the idea of *metareading* as a type of reading we should consider as important to the humanities, alongside such other types of reading as *close reading*, *hyperreading*, and *distant reading*.
+
+*Metareading* involves making declarative claims about the text *as text*: for example, who authored it, what genre it belongs to, how many versions of the text exist, and how those versions differ. Metareading may lead to decisions about how best to present a text to readers. 
+
+These declarative claims are rarely if ever claims of *fact*. On the contrary, they almost always involve interpretive judgments. Metareading (perhaps we might as easily call it *declarative reading*) doesn't stand apart from, but is instead likely to be shaped by, and in turn to shape, the other types of reading in any given instance.
+
+The relationship between metareading and close reading becomes especially clear when we consider the case of "fluid texts" — texts whose meaning can't be fully understood apart from what we know about their textual history.
 
 ## What is a fluid text?
 
