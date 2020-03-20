@@ -2,7 +2,7 @@
 
 *This is the revised syllabus for our class effective March 23. You can always find the original syllabus, for comparison, on [GitHub](https://github.com/WhatTheDickens/lit-dig-age/blob/master/syllabus_s20.md).*
 
-*Our learning individual and community learning outcomes haven't changed. Nor have our means of assessment (blog posts, annotations on* Walden, *journaling, and a final project.) But some readings have been eliminated, and the final project **may** become an individual rather than a group project.*
+*Our individual and community learning outcomes haven't changed. Nor have our means of assessment (blog posts, annotations on* Walden, *journaling, and a final project.) But some readings have been eliminated, and the final project **may** become an individual rather than a group project.*
 
 *In comparing this syllabus with the original, please note especially the revisions to the section titled [Take care of yourself](#take-care-of-yourself) and to everything after [spring break](##week-9-|-soft-restart).*
 
@@ -232,7 +232,7 @@ Spring Break: M 3/16-F 3/20
 
 I'll hold drop-in office hours Monday and Wednesday 12:30 pm - 2:00 pm. I'll use Zoom for this rather than Google Hangouts because Zoom will do better at accommodating a large meeting. Watch for a link to come your way in Slack and via Google Calendar. I'll answer any questions you have about how we're going to preserve learning in our class for the remainder of the semester and help you troubleshoot any computer issues you may be having.
 
-*You should continue journaling and pushing your journal files to GitHub.*
+*You should continue journaling and pushing your journal files to GitHub — twice a week — this week and throughout the remainder of the semester. These files, as always, needn't have a lot in them. They should, at a minimum, chronicle the things you're learning in the course.*
 
 ### Other assignments for the week
 
