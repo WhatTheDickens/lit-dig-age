@@ -1,5 +1,7 @@
 # ENGL 340 S20 Information and Schedule
 
+***Important:*** *This is the original syllabus for the course. The syllabus has since been modified in response to the COVID-19 pandemic. You can find the revised syllabus on the [course website](https://dh.sunygeneseoenglish.edu/spring-2020-syllabus/) and in Canvas. In the coming days it will also be available in this repository.*
+
 *Jump straight to the [schedule](#schedule).*
 
 ## Meetings
