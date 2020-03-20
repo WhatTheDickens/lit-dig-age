@@ -262,6 +262,7 @@ Principal readings contained in these modules:
 - [Introduction to *Walden: A Fluid-Text Edition*](http://digitalthoreau.org/fluid-text-toc/)
 - "Examples for Module 7: Critical Editing" in [TEI by example](https://teibyexample.org/examples/TBED07v00.htm)
 - Emily Dickinson, "Faith is a fine example" on the [Versioning Machine](http://v-machine.org/samples/) website
+- Jeffrey Pomerantz, *Metadata*
 
 **Due by April 13:** Your journal to date  
 **Due by April 15:** Your second blog post
