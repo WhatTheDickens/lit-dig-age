@@ -1,6 +1,10 @@
 # ENGL 340 S20 Information and Schedule, COVID-19 EDITION
 
-*Jump straight to the [schedule](#schedule).*
+*This is the revised syllabus for our class effective March 23. You can always find the original syllabus, for comparison, on [GitHub](https://github.com/WhatTheDickens/lit-dig-age/blob/master/syllabus_s20.md).*
+
+*Our learning individual and community learning outcomes haven't changed. Nor have our means of assessment (blog posts, annotations on* Walden, *journaling, and a final project.) But some readings have been eliminated, and the final project **may** become an individual rather than a group project.*
+
+*In comparing this syllabus with the original, please note especially the revisions to the section titled [Take care of yourself](#take-care-of-yourself) and to everything after [spring break](##week-9-|-soft-restart).*
 
 ## Individual learning outcomes
 
@@ -32,7 +36,7 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 
 - You’ll keep a journal in which you write regularly about what you’re learning in the course
 - You’ll write two blog posts for this website in which you reflect on your learning in this course
-- You’ll contribute to a group project in which you make use of particular computing skills that you acquire in the course
+- You’ll contribute to a final project in which you make use of particular computing skills that you acquire in the course
 
 ## Texts
 
@@ -240,7 +244,7 @@ I'll hold drop-in office hours Monday and Wednesday 12:30 pm - 2:00 pm. I'll use
 
 ## Weeks 10-12 | Metareading
 
-See the modules I've built in Canvas (when published). The modules cover topics that we would have covered differently in our face-to-face meetings. Same content, new approach. No added assignments. Some assignments from the original syllabus eliminated to simplify your life. You'll find the specific assignments and due dates in the modules themselves.
+See the modules I've built in Canvas (when published). The modules cover topics that we would have covered differently in our face-to-face meetings. Same content, new approach. No added assignments. Some assignments from the original syllabus have been eliminated to simplify your life. You'll find the specific assignments and due dates in the modules themselves.
 
 In brief, the modules cover: 
 
@@ -251,7 +255,7 @@ In brief, the modules cover:
 - TEI/XML as a tool for metareading a fluid text 
 - The concept of "metadata"
 
-Readings contained in these modules:
+Principal readings contained in these modules:
 
 - [*Walden*](https://commons.digitalthoreau.org/walden/), "The Pond in Winter" through "Conclusion"
 - Robert Sattelmeyer, "The Re-making of *Walden*"
@@ -259,7 +263,7 @@ Readings contained in these modules:
 - "Examples for Module 7: Critical Editing" in [TEI by example](https://teibyexample.org/examples/TBED07v00.htm)
 - Emily Dickinson, "Faith is a fine example" on the [Versioning Machine](http://v-machine.org/samples/) website
 
-**Due by April 13:** Your journal to date
+**Due by April 13:** Your journal to date  
 **Due by April 15:** Your second blog post
 
 During this period I'll continue to hold drop-in office hours MW 12:30 pm - 2:00 pm and to remain available by appointment. However, if not many people drop in for office hours, we'll rely entirely on appointments.
@@ -274,6 +278,6 @@ On our original syllabus, these were to be group projects. Working in groups may
 
 During this period I'll continue to hold drop-in office hours MW 12:30 pm - 2:00 pm and to remain available by appointment. However, if not many people drop in for office hours, we'll rely entirely on appointments.
 
-**Your timeline, XML/TEI file, and blog post discussing your project are due on Wednesday, May 6.
+**Your timeline, XML/TEI file, and blog post discussing your project are due on Wednesday, May 6.**
 
 
