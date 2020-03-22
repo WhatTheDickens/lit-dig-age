@@ -32,7 +32,7 @@ In the final three weeks of the semester (weeks 13-15), you'll select some manus
 
 Remember that you'll have three full weeks to work on this project.
 
-To complete the present module, you should create and share with me a new timeline that incorporates at least two different manuscript images. You can put placeholder text where you'll later put your narrative text. Use any two images you like. The point of this exercise is simply to begin getting a feel for how to work with the *Walden* manuscript images in TimlineJS.
+To complete the present module, you should create and share with me a new timeline that incorporates at least two different manuscript images. You can put placeholder text where you'll later put your narrative text. Use any two images you like. The point of this exercise is simply to begin getting a feel for how to work with the *Walden* manuscript images in TimelineJS.
 
 ## Assignments
 
