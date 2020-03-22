@@ -1,4 +1,4 @@
-# Using TimlineJS to tell a story about manuscript revisions
+# Using TimelineJS to tell a story about manuscript revisions
 
 ## Review
 
@@ -18,7 +18,7 @@ The title page of the first edition of *Walden* includes this epigraph:
 
 > *I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning, standing on his roost, if only to wake my neighbors up. —Page 92.*
 
-Thoreau was aware that his emphasis on the first-person in *Walden*, and his intention to "brag," might strike some readers as egotistical. In the manuscript, we can see him revising the title page and several other passages in an effort to express pride in his accomplishment while anticipating how his readers might receive it.
+Thoreau was aware that his emphasis on the first-person in *Walden*, and his intention to "brag," might strike some readers as egotistical. In the manuscript, we can see him revising the title page and several other passages in an effort to express pride in his accomplishment while anticipating how his readers might receive his "bragging."
 
 Here's [one way to tell the story of these changes, using TimelineJS](http://bit.ly/2HdlcP6).
 
