@@ -34,7 +34,7 @@ You could do that by replacing the original URI you typed with the following:
 
 When you hit `Return/Enter`, the image should load much, much faster. This image is 870 x 1160 pixels, with a fise size of 136 KB — just under 2% of the original's size.
 
-How do the two URIs differ? You have to look closely to see. Start at the end (`&hellip;default.jpg`) and trace your way back till you see this: `/full/pct:10/` Compare with the URI above, which reads, at the same location, `/full/full/`. The second URI delivers the image at 10% of its original size. 
+How do the two URIs differ? You have to look closely to see. Start at the end (&hellip;`default.jpg`) and trace your way back till you see this: `/full/pct:10/` Compare with the URI above, which reads, at the same location, `/full/full/`. The second URI delivers the image at 10% of its original size. 
 
 We can bring the reduced-size image into the present page by typing
 
