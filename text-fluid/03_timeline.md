@@ -20,7 +20,7 @@ Type the following address (also known as a "URI") into your web browser's locat
 
 It will take some time for the image to load, especially if you don't have a high-speed internet connection. High-quality scans of manuscript images have  large file sizes so that researchers and other users can examine them in fine detail. The image you've just loaded is 7.4 MB. It's 6751 pixels wide by 9000 pixels long.
 
-Your browser probably loaded a scaled-down version of the image so that the entire image would fit on your screen. If you mouse over the image, you should see an icon of a magnifying glass with a "+" sign inside it. Clicking on the image should enlarge it to full size, so that you can see it in great detail. In most browsers, you can step down the size of the image using the keyboard combination `Ctrl -` (Mac: `Command -`). Similarly, you can step it up using `Ctrl +` (Mac `Command +`) You can save the image to your own computer by right-clicking and choosing "Save Image As ..." or the equivalent.
+Your browser probably loaded a scaled-down version of the image so that the entire image would fit on your screen. If you mouse over the image, you should see an icon of a magnifying glass with a "+" sign inside it. Clicking on the image should enlarge it to full size, so that you can see it in great detail. In most browsers, you can step down the size of the image using the keyboard combination `Ctrl` + `-` (Mac: `Command` + `-`). Similarly, you can step it up using `Ctrl` + `=` (Mac `Command` + `=`) You can save the image to your own computer by right-clicking and choosing "Save Image As ..." or the equivalent.
 
 The size of high-quality scans is one reason the IIIF standard is so important: if you had to use all these images at full size in your project, your users would spend a lot of time drumming their fingers, waiting for your images to arrive on their screens.
 
@@ -32,7 +32,7 @@ You could do that by replacing the original URI you typed with the following:
 
 `https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/8/full/pct:10/0/default.jpg`
 
-When you hit `Return/Enter`, the image should load much, much faster. This image is 870 x 1160 pixels, with a fise size of 136 KB — just under 2% of the original's size.
+When you hit `Return/Enter`, the image should load much, much faster. This image is 870 x 1160 pixels, with a file size of 136 KB — just under 2% of the original's size.
 
 How do the two URIs differ? You have to look closely to see. Start at the end (&hellip;`default.jpg`) and trace your way back till you see this: `/full/pct:10/` Compare with the URI above, which reads, at the same location, `/full/full/`. The second URI delivers the image at 10% of its original size. 
 
