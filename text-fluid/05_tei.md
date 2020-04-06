@@ -10,5 +10,5 @@ There are many different ways to make declarative statements about a text. We ca
 
 For the digital humanist, the most flexible, comprehensive, thorough, and useful way to make statements about a text is to make these statements right inside the text using a language specially designed for the purpose.
 
-Terms for describing the parts of texts and the types of words used in them have been around for a long time. Books typically have *titles*, and these often appear on a *title page*. Longer books are frequently divided into *chapters*; chapters generally begin with *chapter titles* and may contain *chapter headings* and *subheadings*.
+Terms for describing the parts of texts and the types of words used in them have been around for a long time. Books typically have *titles*, and these often appear on a *title page*. Longer books are frequently divided into *chapters*; chapters generally begin with *chapter titles* and may contain *chapter headings* and *subheadings*. Poems typically consist of *lines* which are frequently divided into *stanzas*. Dramas are divided into *acts* in which dialog is spoken by *speakers*. And so on.
 
