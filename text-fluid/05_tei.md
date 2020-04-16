@@ -56,8 +56,8 @@ It's worth noting that the TEI markup in our Blake example does more than descri
 
 If all of this sounds obvious — well, that's the point. It's obvious only because in learning to read, you learned not only how to make sense of words but how to interpret a secondary language of sorts, a language of visual display designed to communicate information about textual structures. Understanding those structures helps you understand how you should think about the words and construct larger meanings from them. The title operates as a kind of short summary of everything that follows. A line of poetry becomes a unit of meaning that we're invited to consider in its own right as well as in relation to the whole poem. Ditto for a stanza.
 
-One use of TEI is to translate that this familiar language of visual display into a language of symbols. 
+One use of TEI is to translate this familiar language of visual display into a language of symbols. 
 
-But to what end? What's gained by doing this? We'll answer those questions on the next page.
+But to what end? What's gained by doing this? We'll consider those questions on the next page.
 
 
