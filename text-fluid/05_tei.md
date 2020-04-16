@@ -14,6 +14,8 @@ Terms for describing the parts of texts and the types of words used in them have
 
 The digital humanist's metalanguage draws heavily on the one you're already familiar with. To demonstrate this, let's take a look at how a digital humanist might describe a short poem by the British Romantic poet William Blake. First, here's the poem itself:
 
+<blockquote>
+
 **The Shepherd**
 
 How sweet is the Shepherd's sweet lot!  
@@ -25,6 +27,7 @@ For he hears the lamb's innocent call,
 And he hears the ewe's tender reply;   
 He is watchful while they are in peace,   
 For they know when their Shepherd is nigh.
+</blockquote>
 
 Now let's take a look at how a digital humanist might describe the poem in a specialized metalanguage:
 
