@@ -59,5 +59,3 @@ If all of this sounds obvious — well, that's the point. It's obvious only beca
 One use of TEI is to translate this familiar language of visual display into a language of symbols. 
 
 But to what end? What's gained by doing this? We'll consider those questions on the next page.
-
-
