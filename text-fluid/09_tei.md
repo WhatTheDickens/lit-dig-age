@@ -19,19 +19,18 @@ but then drew a line through the word "Wednesday" we would write:
 Let's say the author didn't just delete (or, to use the technical editorial term, *cancel*) "Wednesday" but also inserted "Thursday" above or beside the canceled text. We would represent that change this way:
 
 ```
-<p>She bought the apples on <del>Wednesday</del> <add>Thursday</del>, April 16.</p>
+<p>She bought the apples on <del>Wednesday</del> <add>Thursday</add>, April 16.</p>
 ```
-Notice that our mark up doesn't try to represent *how* the canceled text was canceled. If "Wednesday" had been canceled with a squiggly line or heavy cross-hatching, our encoding wouldn't change. Similarly, the `<add>` element doesn't tell us by itself whether the inserted text was added above, below, or beside the canceled text, or off in a margin somewhere connected by a long line.
+Notice that our markup doesn't try to represent *how* the canceled text was canceled. If "Wednesday" had been canceled with a squiggly line or heavy cross-hatching, our encoding wouldn't change. Similarly, the `<add>` element doesn't tell us by itself whether the inserted text was added above, below, or beside the canceled text, or off in a margin somewhere connected by a long line.
 
 TEI gives us ways to capture that kind of information about manuscript text, but we're not going to get into those here.
 
-Notice that insertions that take place inside deletions, and deletions that take place inside insertions, can be captured through nested elements.
+Notice too that insertions that take place inside deletions, and deletions that take place inside insertions, can be captured through nested elements. For example:
 
 ```
- <p>I should not presume to talk so much about myself and my affairs as I
- shall in this <del>lecture</del> <del><add>book</add></del> <del><add>work</add></del> <add>book</add> ...</p>
+ <p>I should not presume to talk so much about myself and my affairs as I shall in this <del>lecture</del> <del><add>book</add></del> <del><add>work</add></del> <add>book</add> ...</p>
 ```
 
-In this example, our markup says, in effect: On the page, "lecture" is canceled, "book" is inserted and then canceled, "work" is inserted and then canceled, and "book" is again inserted.
+Here, our markup says, in effect: On the page, "lecture" is canceled, "book" is inserted and then canceled, "work" is inserted and then canceled, and "book" is again inserted.
 
 Finally, notice that our markup won't tell a browser how to display these changes on a web page. Remember that XML is metalanguage for *making declarations about a text as text*, not a formatting language. To display the changes some particular way in a browser (with strike-throughs, different colors, etc.), we would have to first *transform* our XML into HTML (accompanied, perhaps, by some CSS). 
