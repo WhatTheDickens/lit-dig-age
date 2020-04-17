@@ -13,10 +13,14 @@ If you still have the file `05.xml` on your computer, open it up and have a look
                 <seg type="written">A</seg>
                 <seg type="rewritten">B, D</seg>
 ```
-Each paragraph of *Walden* in the fluid-text edition is marked up with descriptive information like this. An important part of that information, enclosed in the `<seg>` element, is the version history for the paragraph. In this case: written in version, rewritten in versions B and D.
+Each paragraph of *Walden* in the fluid-text edition is marked up with descriptive information like this. An important part of that information, enclosed in the `<seg>` element, is the version history for the paragraph. We see here that the first paragraph of *Walden* was originally written in version A, then rewritten in both versions B and D.
 
-Now head over to the page ["Written and Re-Written in *Walden*"](https://digitalthoreau.org/written-and-re-written/) on the fluid-text site. The table there makes it possible to sort the paragraphs and sub-paragraphs ("segments") of *Walden* in order to better understand the how Thoreau's work grew across the seven versions.
+Because this information about each paragraph of each *Walden* chapter is encoded in TEI and therefore machine-readable, a computer program can be used to run through the TEI file for each chapter, pull out the information, and make it available for analysis.
 
-Taking that same data and putting it in a spreadsheet yields the perspective offered in numbers and two different charts on the page "The Growth of *Walden*."
+Now head over to the page ["Written and Re-Written in *Walden*"](https://digitalthoreau.org/written-and-re-written/) on the fluid-text site. The table was built using the information, extracted from the TEI files, about the version history of each *Walden* paragraph or paragraph segment. (The encoding divides many of the paragraphs of *Walden* into "segments" because there are portions of paragraphs that have their own revision histories. Whole portions of paragraphs get dropped from some versions or added in others. Segments are labeled with number-letter combinations such as "4b".)
+
+You can use the column headings in the table to sort the information about paragraph revision-histories by clicking on the column headers. For example, clicking on the "Written" heading will organize the information by version, so you can see at a glance all the paragraphs or paragraph segments first written in version A.
+
+Once we've extracted the revision-history data from the TEI files, we can also visualize it in other ways. Taking that same data and putting it in a spreadsheet yields the perspective offered in numbers and two different charts on the page ["The Growth of *Walden*"](https://digitalthoreau.org/the-growth-of-walden/).
 
 Click ahead to offer some thoughts on what these visualizations reveal about the evolution of *Walden*.
