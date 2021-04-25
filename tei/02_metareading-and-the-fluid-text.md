@@ -66,5 +66,5 @@ Identify a passage (from a few sentences to a paragraph or so) in *Walden* that 
 ## Assignment 5
 
 -   Read *Walden*, "The Pond in Winter" through "Conclusion"
--   Read Robert Sattelmeyer, <a href="https://canvas.geneseo.edu/courses/17027/files/937597/download?wrap=1" class="instructure_file_link instructure_scribd_file" title="Sattelmeyer_Remaking_of_Walden.pdf">"The Re-making of <em>Walden</em>"</a>
+-   Read Robert Sattelmeyer, "The Re-making of <em>Walden</em>"
 

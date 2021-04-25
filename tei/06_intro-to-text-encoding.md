@@ -28,6 +28,7 @@ The digital humanist’s metalanguage draws heavily on the one you’re already 
 
 Now let’s take a look at how a digital humanist might describe the poem in a specialized metalanguage:
 
+```xml
     <title>The Shepherd</title>
     <lg type="stanza">
     <l>How sweet is the Shepherd's sweet lot! </l>
@@ -41,5 +42,6 @@ Now let’s take a look at how a digital humanist might describe the poem in a s
     <l>He is watchful while they are in peace, </l>
     <l>For they know when their Shepherd is nigh. </l>
     </lg>
+```
 
 The metalanguage used in this example is called TEI. TEI stands for “Text Encoding Initiative,” a name used for both the collaborative scholarly effort that gave rise to this metalanguage and the metalanguage itself. You can learn more (a lot more!) about TEI on the [website for the TEI Consortium](https://tei-c.org).

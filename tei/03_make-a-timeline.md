@@ -29,7 +29,7 @@ One challenge to pulling in an image by its URL is that the URL must actually po
 
 For example, if I google “cat” and then click “Images” below the search box, I get a lot of image thumbnails as my result. If I click on the thumbnail for an image of a “June odd-eyed cat,” available through Wikipedia, I’m taken to a page that shows a larger version of the image to the right of the thumbnails.
 
-<img src="https://canvas.geneseo.edu/courses/17027/files/937815/preview" width="601" height="492" alt="cat-google-1.png" />
+![cat](../images/cat-google.png)
 
 The page has a very long address:
 
@@ -43,7 +43,7 @@ Clicking the image in that search results page takes me here:
 
 This looks better – the URL ends with `.jpg` — but careful! This URL still isn’t pointing to the image file itself but to a Wikipedia page *about* the file.
 
-<img src="https://canvas.geneseo.edu/courses/17027/files/937811/preview" width="736" height="460" alt="cat-june.png" />
+![File view of cat image](../images/cat-june.png)
 
 However, if I look beneath the image on the Wikipedia page, I see a link to the “Original file.”
 

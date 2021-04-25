@@ -15,7 +15,7 @@ The repository has a folder for each project group. The folder names track with 
 -   proj-5
 -   proj-6
 
-Each repository contains a template file to get you started. It's similar to the template file you used for the [Edit your own TEI file](https://canvas.geneseo.edu/courses/17027/assignments/122569 "Edit your own TEI file") exercise in the previous module. You can adapt this file for your team's TEI project.
+Each repository contains a template file to get you started. It's similar to the template file you used for the [Edit your own TEI file](13_edit-your-own.md) exercise in the previous module. You can adapt this file for your team's TEI project.
 
 Distributed collaboration is one of the reasons-for-being of Git (the versioning software you run from your command line) and GitHub (the website for storing Git repositories). Every member of your group can make a copy of the TEI file, work on it individually, and push changes up to your team's folder . (You won't want to make changes to the contents of other teams' folders.) 
 

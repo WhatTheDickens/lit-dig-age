@@ -67,7 +67,7 @@ Here’s what a basic TEI file looks like. The bits in the code below that look 
     </TEI>
 ```
 
-You can <a href="https://canvas.geneseo.edu/courses/17027/files/996990/download?wrap=1" class="instructure_file_link instructure_scribd_file" title="basic_tei_file.xml">download a copy of this file here</a> to open on your own computer in VS Code.
+You can [find a copy of this file here](../files/basic-tei-file.xml) to download and open on your own computer in VS Code.
 
 As you can see from the comments, a valid TEI file has the following main components:
 

@@ -4,6 +4,7 @@ TEI (the metalanguage) is an example of XML, which stands for “eXtensible Mark
 
 Let's look again at our encoding of the Blake poem:
 
+```xml
     <title>The Shepherd</title>
     <lg type="stanza">
     <l>How sweet is the Shepherd's sweet lot! </l>
@@ -17,6 +18,7 @@ Let's look again at our encoding of the Blake poem:
     <l>He is watchful while they are in peace, </l>
     <l>For they know when their Shepherd is nigh. </l>
     </lg>
+```
 
 The statements in the example above shouldn’t be hard to understand. Some of what’s inside the angle brackets (&lt; &gt;) comes from our ordinary vocabulary for talking about texts: *title*, *stanza*. The rest is easy enough to guess the meaning of: each `<l>` and `</l>` pair surrounds a *line* of poetry. The lines come in two *line groups*, each group demarcated with an opening `<lg>` tag and a closing `</lg>` tag. The line groups we’re used to encountering in poetry have a variety of names; *stanza* is only one of these. The `<lg>` *element*, as it’s called in TEI, can be modified depending on the kind of group using an *attribute* named `type` which can be filled in with any number of *values* that name the particular type of group. Other possible values for the *type* attribute when used inside the `<lg>` element include `"free"` for groups of unrhymed lines and `"quatrain"` for groups of four lines.
 

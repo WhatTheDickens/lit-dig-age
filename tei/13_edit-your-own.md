@@ -2,9 +2,9 @@
 
 This assignment is due by 11:59 p.m. on  Monday, April 27.
 
-Download the template TEI file named <a href="https://canvas.geneseo.edu/courses/17027/files/1001787/download?wrap=1" class="instructure_file_link instructure_scribd_file" title="sample.xml">sample.xml</a> together with <a href="https://canvas.geneseo.edu/courses/17027/files/1001790/download?wrap=1" class="instructure_file_link instructure_scribd_file" title="sample_text_for_tei.pdf">the pdf containing a short sample of handwritten text</a>.
+Download the template TEI file named `sample.xml` together with the pdf containing a short sample of handwritten text.
 
--   Select a manuscript page of *Walden* from [the Google sheet previously shared with you](https://docs.google.com/spreadsheets/d/1pevP6Jmc40QP0g8b4JMgPQMRhi6rfCRdaJoV8NhYlzU/edit#gid=1938909689).
+-   Select a manuscript page of *Walden* from [this Google sheet listing all pages of the manuscript](https://docs.google.com/spreadsheets/d/1pevP6Jmc40QP0g8b4JMgPQMRhi6rfCRdaJoV8NhYlzU/edit#gid=1938909689).
 -   Select a portion of that page for encoding. The passage should contain some changes Thoreau made: words, phrases, or sentences added or deleted. *The passage doesn't have to be long*: a short paragraph or even just a portion of a paragraph is fine. *You don't have to encode the entire page.*
 -   Determine
     -   what draft version the page belongs to (A-G) — that information is in the spreadsheet;
