@@ -1,0 +1,38 @@
+<!-- XML declaration and other information about the encoding. -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- The opening tag for root element, TEI -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<!-- The teiHeader element, which contains elements with information about both the TEI file and the document being encoded in it. -->
+
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+
+  <!-- The text element, which contains the encoded document. -->
+
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+
+<!-- The closing tag of the root element, TEI -->
+
+</TEI>
