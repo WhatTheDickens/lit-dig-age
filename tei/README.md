@@ -1,6 +1,6 @@
 # Weeks 10-15: Reading as an editor 
 
-For the final, remote, portion of our class, you should work your way through the pages below, which introduce you to editing and encoding with TEI using the manuscript of *Walden* and provide instructions for your final group projects.
+For the final, remote, portion of our class, you should work your way through the pages below, which introduce you to editing and encoding with TEI using the manuscript of *Walden* and provide instructions for your final group projects. In this unit, you'll also learn how to work with TimelineJS and IIIF images to tell the story of an author's manuscript revisions.
 
 ## Contents
 
