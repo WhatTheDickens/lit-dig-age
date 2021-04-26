@@ -79,7 +79,9 @@ Alternatively, you can navigate on the command line to where you'd like to save 
 
 then open the file with
 
-`code basic_tei_file.xml`
+```console
+    code basic_tei_file.xml
+```
 
 If all else fails, you can open a new, empty file in VS Code, copy the  contents from the GitHub file in your browser, paste it in, and save the file, naming it `basic_tei_file.xml`.
 

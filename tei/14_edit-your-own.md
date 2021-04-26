@@ -16,7 +16,9 @@ Of course, you can also navigate on the command line to where you'd like to save
 
 then open the file with
 
-`code sample.xml`
+```console
+    code sample.xml
+```
 
 If all else fails, you can open a new, empty file in VS Code, copy the  contents from the GitHub file in your browser, paste it in, and save the file, naming it `sample.xml`.
 
