@@ -21,3 +21,5 @@ For the final, remote, portion of our class, you should work your way through th
 15. [Final project instructions](15_final-project-instructions.md)
 16. [GitHub workflow for TEI project](16_github-workflow.md)
 
+[Get started](01_types-of-reading.md) →
+
