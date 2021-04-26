@@ -1,4 +1,4 @@
-↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [2. Metareading and the fluid text](02_metareading-and-the-fluid-text.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[4. Using TimelineJS to model revisions in *Walden*](04_using-ms-images-in-a-timeline.md) →
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [2. Metareading and the fluid text](02_metareading-and-the-fluid-text.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[4. Using manuscript images in a timeline](04_using-ms-images-in-a-timeline.md) →
 
 # 3. Using TimelineJS to model revisions in *Walden*
 
