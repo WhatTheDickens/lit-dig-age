@@ -1,4 +1,4 @@
-↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [6. Using TimelineJS to tell a story about manuscript revisions](06_fluid-texts-fluid-text-editing.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[8. More about TEI](08_more-about-tei.md) →
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [6. Fluid texts and fluid-text editing](06_fluid-texts-fluid-text-editing.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[8. More about TEI](08_more-about-tei.md) →
 
 # 7. Introduction to text-encoding
 
