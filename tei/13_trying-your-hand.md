@@ -13,7 +13,6 @@ The `<del>` element is used to indicate deleted text. For example, to represent 
 but then drew a line through the word “Wednesday” we would write:
 
 ```xml
-
     <p>She bought the apples on <del>Wednesday</del>, April 16.</p>
 ```
 

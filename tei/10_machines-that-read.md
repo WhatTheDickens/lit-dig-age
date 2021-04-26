@@ -12,9 +12,11 @@ Head over to the [“Solitude” chapter of *Walden: A Fluid-Text Edition*](http
 
 Now head over to the [GitHub repository that houses the TEI files for the 18 chapters of *Walden*](https://github.com/milnegeneseo/fluid_text/tree/master/tei). Click on the file `05.xml` to see the contents of the file that contains all the information about “Solitude” that’s being represented in the fluid-text edition.
 
-Download this file to your computer. You can do this by right-clicking the "Raw" button and saving the file to your computer. But why not use your command-line skills for this? Open a terminal window, `cd` to the location where you'd like to save the file, and type the following at the prompt:
+Download this file to your computer. You can do this by right-clicking the <kbd>Raw</kbd> button and saving the file to your computer. But why not use your command-line skills for this? Open a terminal window, `cd` to the location where you'd like to save the file, and type the following at the prompt:
 
+```console    
     curl https://raw.githubusercontent.com/milnegeneseo/fluid_text/master/tei/05.xml > 05.xml
+```
 
 Now go to where you saved the file — whatever method you chose — and open it in VS Code. Next, open it in a browser such as Firefox, Chrome, Safari, or Edge. You won’t see the panels or the pop-ups or any of the features included in the fluid-text edition. All you’ll see is the same XML/TEI code.
 

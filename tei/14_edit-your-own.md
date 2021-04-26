@@ -11,7 +11,7 @@ Download [this template TEI file](https://github.com/WhatTheDickens/lit-dig-age/
 Of course, you can also navigate on the command line to where you'd like to save the file, then enter
 
 ```console
-download-test curl https://raw.githubusercontent.com/WhatTheDickens/lit-dig-age/master/files/sample.xml > sample.xml
+curl https://raw.githubusercontent.com/WhatTheDickens/lit-dig-age/master/files/sample.xml > sample.xml
 ```
 
 then open the file with
