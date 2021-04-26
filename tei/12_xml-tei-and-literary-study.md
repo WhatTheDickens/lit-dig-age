@@ -74,7 +74,7 @@ You can [find a copy of this file in our "files" folder](https://github.com/What
 Alternatively, you can navigate on the command line to where you'd like to save the file, then enter
 
 ```console
-curl https://raw.githubusercontent.com/WhatTheDickens/lit-dig-age/master/files/basic_tei_file.xml > basic_tei_file.xml
+    curl https://raw.githubusercontent.com/WhatTheDickens/lit-dig-age/master/files/basic_tei_file.xml > basic_tei_file.xml
 ```
 
 then open the file with
