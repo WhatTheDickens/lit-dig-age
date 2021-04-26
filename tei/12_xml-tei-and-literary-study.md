@@ -1,4 +1,6 @@
-# XML/TEI and literary study in the digital age
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [11. TEI for data analysis](11_tei-for-data-analysis.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[13. Trying your hand at TEI](13_trying-your-hand.md) →
+
+# 12. XML/TEI and literary study in the digital age
 
 How important are XML encoding in general, and TEI encoding in particular, to literary study in the digital age? Here are just a few of the many digital humanities projects that use some version of XML, including TEI.
 

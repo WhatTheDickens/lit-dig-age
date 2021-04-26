@@ -1,4 +1,6 @@
-# Edit your own TEI file
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [13. Trying your hand at TEI](13_trying-your-hand.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[15. Final project instructions](15_final-project-instructions.md) →
+
+# 14. Edit your own TEI file
 
 This assignment is due by 11:59 p.m. on  Monday, April 27.
 

@@ -1,4 +1,6 @@
-# Introduction to text-encoding
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [6. Using TimelineJS to tell a story about manuscript revisions](06_fluid-texts-fluid-text-editing.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[8. More about TEI](08_more-about-tei.md) →
+
+# 7. Introduction to text-encoding
 
 The previous module introduced the concept of *metareading* as a type of reading that makes claims about a text *as* text. Although not the same as *close reading*, which focuses on generating interpretations of a text through attention to patterns (of words, imagery, narrative elements, character, etc.), metareading certainly requires close attention to detail. And because declarations about a text as text require judgment and are always subject to debate, metareading is, in its own way, interpretive.
 

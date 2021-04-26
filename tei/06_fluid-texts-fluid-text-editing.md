@@ -1,4 +1,6 @@
-# Fluid texts and fluid text editing
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [5. Using TimelineJS to tell a story about manuscript revisions](05_tell-a-story.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[7. Introduction to text-encoding](07_intro-to-text-encoding.md) →
+
+# 6. Fluid texts and fluid text editing
 
 This section will introduce you to the concept of a “fluid text,” using *Walden* and *Walden: A Fluid-Text Edition* as examples.
 

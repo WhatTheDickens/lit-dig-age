@@ -1,4 +1,6 @@
-# GitHub workflow for TEI project
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [15. Final project instructions](15_final-project-instructions.md)
+
+# 16. GitHub workflow for TEI project
 
 As explained on the previous page for this module, you'll collaborate on the TEI file for your final project, and share the completed file with me, using GitHub. Here's how that will work.
 

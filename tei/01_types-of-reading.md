@@ -1,4 +1,6 @@
-# Reading revisited
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[2. Metareading and the fluid text](02_metareading-and-the-fluid-text.md) →
+
+# 1. Reading revisited
 
 Our discussions this semester have been dominated by the idea of *reading* as an activity central to the humanities and, indeed, to culture generally ever since the invention of writing as a technology for conveying and receiving *information* (another idea that has dominated our discussions).
 

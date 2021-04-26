@@ -1,4 +1,6 @@
-# Machines that read
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [9.Why TEI?](09_why-tei.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[11. TEI for data analysis](11_tei-for-data-analysis.md) →
+
+# 10. Machines that read
 
 What’s the value in describing texts so that machines can read our descriptions? A full answer to that question would take up a lot of — pages? screens? (take your pick) — but here’s a partial one. For one thing, a machine-readable description enables a computer program to *display* the marked-up text in multiple ways. We’re not locked into any one way of displaying the text. The program simply needs to understand our metalanguage — TEI in this case — and follow whatever instructions we’ve given it for *transforming* the contents into a display-oriented metalanguage that a browser will understand, such as HTML.
 

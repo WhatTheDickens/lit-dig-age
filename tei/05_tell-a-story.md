@@ -1,4 +1,6 @@
-# Using TimelineJS to tell a story about manuscript revisions
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [4. Using manuscript images in a timeline ](04_using-ms-images-in-a-timeline.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[6. Fluid texts and fluid text editing](06_fluid-texts-fluid-text-editing.md) →
+
+# 5. Using TimelineJS to tell a story about manuscript revisions
 
 ## Review
 

@@ -1,4 +1,6 @@
-# Why TEI?
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [8. More about TEI](08_more-about-tei.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[10. Machines that read](10_machines-that-read.md) →
+
+# 9. Why TEI?
 
 You came here (if you’ve been reading the module pages in order) from a page that ended with the words, “We’ll consider those questions on the next page.”
 

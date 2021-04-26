@@ -1,4 +1,6 @@
-# More about TEI
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [7. Introduction to text-encoding ](07_intro-to-text-encoding.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[9. Why TEI?](09_why-tei.md) →
+
+# 8. More about TEI
 
 TEI (the metalanguage) is an example of XML, which stands for “eXtensible Markup Language.” The first thing that may strike you about TEI is its similarity to HTML: Hypertext Markup Language. HTML, too, is a metalanguage, but a metalanguage that serves a somewhat different purpose. HTML enables a web browser (such as Chrome, Firefox, or Safari) to deliver a properly formatted document to your device screen. TEI, for the most part, has no concern with formatting. As already mentioned, its main purpose is to *make statements about a text*.
 

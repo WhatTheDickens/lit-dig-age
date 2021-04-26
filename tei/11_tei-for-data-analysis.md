@@ -1,4 +1,6 @@
-# TEI for data analysis
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [10. Machines that read](10_machines-that-read.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[12. XML/TEI and literary study in the digital age](12_xml-tei-and-literary-study.md) →
+
+# 11. TEI for data analysis
 
 If you still have the file `05.xml` on your computer, open it up and have a look at this bit of marked-up text, beginning around line 87. (If you don’t still have it, [revisit it on GitHub](https://github.com/milnegeneseo/fluid_text/blob/master/tei/05.xml)):
 

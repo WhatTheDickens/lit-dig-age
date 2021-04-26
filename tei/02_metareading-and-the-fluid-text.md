@@ -1,4 +1,6 @@
-# Metareading and the fluid text
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [1. Reading revisited](01-software-setup.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[3. Using TimelineJS to model revisions in *Walden*](03_make-a-timeline.md) →
+
+# 2. Metareading and the fluid text
 
 The previous page introduced the idea of *metareading* as a type of reading we should consider as important to the humanities, alongside such other types of reading as *close reading*, *hyperreading*, and *distant reading*.
 

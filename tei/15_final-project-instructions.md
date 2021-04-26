@@ -1,4 +1,6 @@
-# Final project instructions
+↻ [Home](README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;← [14. Edit your own TEI file](14_edit-your-own.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[16. GitHub project workflow](16_github-workflow.md) →
+
+# 15. Final project instructions
 
 Your final assignment in ENGL 340 is a group project. It has **one main goal and three parts**.
 
