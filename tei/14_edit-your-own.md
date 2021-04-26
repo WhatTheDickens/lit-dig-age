@@ -2,17 +2,40 @@
 
 This assignment is due by 11:59 p.m. on  Monday, April 27.
 
-Download the template TEI file named `sample.xml` together with the pdf containing a short sample of handwritten text.
+## Download the template file
+
+Download [this template TEI file](https://github.com/WhatTheDickens/lit-dig-age/blob/master/files/sample.xml). It's named `sample.xml`. You can download it by right-clicking the <kbd>Raw</kbd> button at the upper right of the file window and choosing "Save Link As" from the dropdown. Open the file in VS Code.
+
+Of course, you can also navigate on the command line to where you'd like to save the file, then enter
+
+```console
+download-test curl https://raw.githubusercontent.com/WhatTheDickens/lit-dig-age/master/files/sample.xml > sample.xml
+```
+
+then open the file with
+
+`code sample.xml`
+
+If all else fails, you can open a new, empty file in VS Code, copy the  contents from the GitHub file in your browser, paste it in, and save the file, naming it `sample.xml`.
+
+## Select a manuscript page to use for your trial encoding 
 
 -   Select a manuscript page of *Walden* from [this Google sheet listing all pages of the manuscript](https://docs.google.com/spreadsheets/d/1pevP6Jmc40QP0g8b4JMgPQMRhi6rfCRdaJoV8NhYlzU/edit#gid=1938909689).
--   Select a portion of that page for encoding. The passage should contain some changes Thoreau made: words, phrases, or sentences added or deleted. *The passage doesn't have to be long*: a short paragraph or even just a portion of a paragraph is fine. *You don't have to encode the entire page.*
+-   Select a *portion* of that page for encoding. The passage should contain some changes Thoreau made: words, phrases, or sentences added or deleted. *The passage doesn't have to be long*: a short paragraph or even just a portion of a paragraph is fine. *You don't have to encode the entire page.*
 -   Determine
     -   what draft version the page belongs to (A-G) — that information is in the spreadsheet;
     -   what chapter of *Walden* the page belongs to — that's in the spreadsheet, too;
     -   what paragraph or paragraph segment the passage belongs to (e.g., 3, 4b) within the chapter — you can figure this out by comparing the passage content to Digital Thoreau's fluid-text edition of *Walden.*
--   Encode the passage following the instructions in the template file you downloaded.
--   Validate your encoding by using [the validator tool on the TEI by Example website](https://teibyexample.org/xquery/TBEvalidator.xq).
--   Do your best to get the file to validate. Once it's complete and validated, upload the file to Canvas. If you can't get it to validate by the deadline, upload what you've got.
+
+## Read the instructions
+
+The template file you downloaded contains instructions for how to encode your selected passage from the manuscript of *Walden*. The instructions begin at line 38. The instructions are themselves a transcription of the [the handwritten instructions in this pdf](https://github.com/WhatTheDickens/lit-dig-age/blob/master/files/sample_text_for_tei.pdf). Comparing the encoded instructions to the handwritten ones will give you a feel for how your *Walden* transcription should look.  
+
+To encode your *Walden* passage, replace the encoded transcription of the handwritten pdf with your transcription of the passage.
+
+Validate your encoding by using [the validator tool on the TEI by Example website](https://teibyexample.org/xquery/TBEvalidator.xq).
+
+Do your best to get the file to validate. Once it's complete and validated, upload the file to Canvas. If you can't get it to validate by the deadline, upload what you've got.
 
 The template contains a number of TEI tags we haven't looked at before. Some of these are explained in the template file. Others should be fairly self-explanatory. (For example, the `msDesc` element encloses a description of a manuscript, including the repository — such as a library or archive — that holds it.) You can learn the meaning of any tag and see examples of its use by looking it up on the website of the [TEI consortium](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html).
 

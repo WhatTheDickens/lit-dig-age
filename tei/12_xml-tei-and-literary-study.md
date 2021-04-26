@@ -67,7 +67,19 @@ Here’s what a basic TEI file looks like. The bits in the code below that look 
     </TEI>
 ```
 
-You can [find a copy of this file here](../files/basic-tei-file.xml) to download and open on your own computer in VS Code.
+You can [find a copy of this file in our "files" folder](https://github.com/WhatTheDickens/lit-dig-age/blob/master/files/basic_tei_file.xml). It's named `basic_tei_file.xml`. To download it to your own computer, find the <kbd>Raw</kbd> button at the top right of the file window, right-click on it, and choose "Save Link As" from the dropdown menu. Open the saved file in VS Code.
+
+Alternatively, you can navigate on the command line to where you'd like to save the file, then enter
+
+```console
+download-test curl https://raw.githubusercontent.com/WhatTheDickens/lit-dig-age/master/files/basic_tei_file.xml > basic_tei_file.xml
+```
+
+then open the file with
+
+`code basic_tei_file.xml`
+
+If all else fails, you can open a new, empty file in VS Code, copy the  contents from the GitHub file in your browser, paste it in, and save the file, naming it `basic_tei_file.xml`.
 
 As you can see from the comments, a valid TEI file has the following main components:
 
