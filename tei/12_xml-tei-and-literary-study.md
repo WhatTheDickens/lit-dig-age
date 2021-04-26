@@ -23,7 +23,9 @@ In this class, we’re not going to try to become experts in the use of TEI, but
 
 Here’s what a basic TEI file looks like. The bits in the code below that look like this —
 
-`<!-- Some text or other here. -->`
+```xml
+    <!-- Some text or other here. -->
+```
 
 — are comments. They serve no functional purpose in the file and are only there to help explain the different parts of the document. You’ll find comments like these in many XML and HTML documents, by the way, since comments are a useful way for encoders to document, for themselves and others, what they’re attempting to accomplish with their markup.
 
